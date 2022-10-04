@@ -9,6 +9,3 @@ I'm an independent software engineer with passion for web performance and user e
 <a href="https://linkedin.com/in/irinablumenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irinablumenfeld" height="30" width="40" /></a>
 <a href="https://twitter.com/irinablumenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irinablumenfeld" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=netmagik&show_icons=true&locale=en&layout=compact" alt="netmagik" /></p>
