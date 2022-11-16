@@ -1,6 +1,7 @@
 # Hi!  👋🏼  I'm Irina 
 
-I'm a software engineer with a passion for web performance and user experience. I love learning about new web technologies and all things about JavaScript.
+I'm a software engineer with a passion for web performance and user experience. I love learning about new web technologies and all things about JavaScript. 
+<br /> When I'm not coding, I'm either baking bread 🍞, running 🏃‍♀️, learning Spanish 🇪🇸  or playing with my dog Cali 🐶.
 
 - 👨‍💻 See my [website](https://www.irinablumenfeld.com) for more information
 
